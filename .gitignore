@@ -1,0 +1,19 @@
+# macOS system files
+.DS_Store
+
+# Python cache and environment
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+.env.*
